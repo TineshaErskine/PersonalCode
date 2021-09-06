@@ -1,4 +1,3 @@
-//Tinesha Erskine SPC ID#2430820
 // PSEUDOCODE
 /* 
  * This class will utilize JavaFX to create a program that shows an emoji face with glasses.
