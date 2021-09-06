@@ -1,4 +1,3 @@
-//Tinesha Erskine SPC ID#2430820
 // PSEUDOCODE
 /* 
  * This class class will have 4 buttons each a different direction.
